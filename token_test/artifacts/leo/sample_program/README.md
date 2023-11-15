@@ -1,4 +1,4 @@
-# token_2299.aleo
+# sample_program.aleo
 
 ## Build Guide
 
